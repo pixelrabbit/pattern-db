@@ -1,0 +1,427 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"backg",
+				"background	background-color: hex"
+			],
+			[
+				"segmen",
+				"segment_bucket"
+			],
+			[
+				"pare",
+				"parseInt"
+			],
+			[
+				"segme",
+				"segment_bucket"
+			],
+			[
+				"padd",
+				"padding	padding: all"
+			],
+			[
+				"border",
+				"border	border-bottom: size style color"
+			],
+			[
+				"pad",
+				"padding	padding: all"
+			],
+			[
+				"bord",
+				"border	border-bottom: size style color"
+			],
+			[
+				"back",
+				"background	background-color: hex"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"ja",
+				"Format: Javascript"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 119.0,
+		"history":
+		[
+			"ls",
+			"grunt",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Documents/web development/pattern-db"
+	],
+	"file_history":
+	[
+		"/C/Users/Dan/Desktop/sewing patterns - test.csv",
+		"/C/Users/Dan/Google Drive/stepsdemo.txt",
+		"/C/Users/Dan/Google Drive/websites/dangovea.com/html/js/pixelrabbit.js",
+		"/C/Users/Dan/Google Drive/websites/dangovea.com/html/index.jade",
+		"/C/Users/Dan/Google Drive/websites/dangovea.com/html/sftp-config.json",
+		"/C/Users/Dan/Google Drive/websites/dangovea.com/html/index.html",
+		"/C/Users/Dan/Google Drive/websites/dangovea.com/html/css/pixelrabbit.less",
+		"/C/Users/Dan/Google Drive/websites/dangovea.com/Gruntfile.js",
+		"/C/Users/Dan/Google Drive/websites/dangovea.com/dangovea.sublime-project",
+		"/C/Users/Dan/Google Drive/websites/dangovea.com/package.json",
+		"/C/Users/Dan/Google Drive/websites/dangovea.com/css/elements.less",
+		"/C/Users/Dan/Google Drive/websites/dangovea.com/terminal.glue",
+		"/C/Users/Dan/Google Drive/websites/dangovea.com/css/pixelrabbit.less",
+		"/C/Users/Dan/Google Drive/websites/dangovea.com/index.jade",
+		"/C/Users/Dan/Google Drive/websites/dangovea.com/dangovea.less",
+		"/C/Users/Dan/Google Drive/websites/dangovea.com/elements.less",
+		"/C/Users/Dan/Google Drive/DC/dang.ppk",
+		"/C/Users/Dan/Google Drive/DC/dang.ppl",
+		"/C/Users/Dan/Documents/websites/pixelrabbit.com/global/commands.txt",
+		"/C/Users/Dan/Documents/websites/global/commands.txt",
+		"/C/Users/Dan/Documents/websites/pixelrabbit.com/sftp-config.json",
+		"/C/Users/Dan/Documents/websites/pixelrabbit.com/pixelrabbit_backup/html-backup-march2012/wp-content/themes/pixelrabbit/global/small_logo.png",
+		"/C/Users/Dan/Documents/websites/ambientcontrol.org/wp-content/themes/redesign/footer.php",
+		"/C/Users/Dan/Documents/websites/global/sftp-config.json",
+		"/C/Users/Dan/Documents/websites/pixelrabbit.com/pixelrabbit_backup/html-backup-march2012/wp-content/themes/pixelrabbit/footer.php",
+		"/C/Users/Dan/Documents/websites/ambientcontrol.org/sftp-config.json",
+		"/C/Users/Dan/Documents/websites/ambientcontrol.org/wp-content/themes/custom/index.php",
+		"/C/Users/Dan/Documents/websites/ambientcontrol.org/wp-includes/widgets.php",
+		"/C/Users/Dan/Documents/websites/ambientcontrol.org/wp-content/themes/custom/page.php",
+		"/C/Users/Dan/Documents/websites/ambientcontrol.org/wp-content/themes/custom/footer.php",
+		"/C/Users/Dan/Documents/websites/ambientcontrol.org/wp-content/themes/custom/header.php",
+		"/C/Users/Dan/Documents/websites/ambientcontrol.org/wp-content/themes/redesign/index.php",
+		"/C/Users/Dan/Documents/websites/ambientcontrol.org/wp-content/themes/twentyeleven/index.php",
+		"/F/Video/My Neighbor Totoro (1988)_chapters.xml",
+		"/C/Users/Dan/Google Drive/DC/dc4/test34.dcheetah.com/web/editor/mod.admin/global-admin_start.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test34.dcheetah.com/web/editor/mod.admin/admin-article.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test34.dcheetah.com/web/editor/dcheetah_ad.css",
+		"/C/Users/Dan/Google Drive/DC/dc4/test34.dcheetah.com/web/editor/mod.admin/mod.fragment/adminfooter-clean.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test34.dcheetah.com/web/editor/quicksearch-clean.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test34.dcheetah.com/web/editor/mod.admin/adminheader.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test34.dcheetah.com/web/editor/mod.admin/admin-article-01.archive",
+		"/C/Users/Dan/Google Drive/DC/dc4/test34.dcheetah.com/web/editor/mod.admin/admin-article-01.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test144.dcheetah.com/web/ama/admin.css",
+		"/C/Users/Dan/Google Drive/DC/dc4/test144.dcheetah.com/web/ama/style.css",
+		"/C/Users/Dan/Google Drive/DC/dc4/test144.dcheetah.com/web/ama/style.less",
+		"/C/Users/Dan/Google Drive/DC/dc4/test144.dcheetah.com/web/ama/mod.template/template-top.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test144.dcheetah.com/web/ama/mod.template/template-member-top.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test144.dcheetah.com/web/ama/images/header-admin.jpg",
+		"/C/Users/Dan/Google Drive/DC/dc4/test144.dcheetah.com/web/ama/mod.site/article-01.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test144.dcheetah.com/web/ama/mod.template/template-bottom.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test144.dcheetah.com/web/ama/mod.site/site-footer.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test110.dcheetah.com/web/ama/groupshare25.css",
+		"/C/Users/Dan/Google Drive/DC/dc4/test110.dcheetah.com/web/ama/style.css",
+		"/C/Users/Dan/Google Drive/DC/dc4/test110.dcheetah.com/web/ama/site.js",
+		"/C/Users/Dan/Google Drive/DC/dc4/test110.dcheetah.com/web/ama/mod.site/site-memberhead.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test110.dcheetah.com/web/ama/mod.site/site-head.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test110.dcheetah.com/web/ama/mod.template/template-member-top.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test110.dcheetah.com/web/ama/mod.template/template-top.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test110.dcheetah.com/web/ama/mod.site/site-footer.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test110.dcheetah.com/web/editor/global.css",
+		"/C/Users/Dan/Google Drive/DC/dc4/test110.dcheetah.com/web/ama/mod.template/template-bottom.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/test110.dcheetah.com/web/ama/home.htm",
+		"/C/Users/Dan/Google Drive/DC/dc4/sftp-config.json",
+		"/C/Users/Dan/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/C/Users/Dan/Google Drive/DC/juniorforum/style.less",
+		"/C/Users/Dan/Google Drive/DC/juniorforum/build.html",
+		"/C/Users/Dan/Google Drive/DC/juniorforum/site.js",
+		"/C/Users/Dan/AppData/Roaming/Sublime Text 2/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/Dan/Google Drive/DC/juniorforum/elements.less",
+		"/C/Users/Dan/Google Drive/DC/juniorforum/style[Conflict].less",
+		"/C/Users/Dan/AppData/Roaming/Sublime Text 2/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/Dan/AppData/Roaming/Sublime Text 2/Packages/LESS-build/readme.md",
+		"/C/Users/Dan/AppData/Roaming/Sublime Text 2/Packages/LESS-build/package-metadata.json",
+		"/C/Users/Dan/AppData/Roaming/Sublime Text 2/Packages/LESS-build/license.txt",
+		"/C/Users/Dan/Google Drive/DC/juniorforum/style.css",
+		"/C/Users/Dan/Dropbox/DC/pivotlink demo/site.js",
+		"/C/Users/Dan/Dropbox/DC/pivotlink demo/detail.html",
+		"/C/Users/Dan/Dropbox/DC/pivotlink demo/compare.html",
+		"/C/Users/Dan/Dropbox/DC/pivotlink demo/css/pivotlink.css",
+		"/C/Users/Dan/Dropbox/DC/pivotlink demo/advanced_segments.html",
+		"/C/Users/Dan/Dropbox/DC/pivotlink demo/refine.html",
+		"/C/Users/Dan/Dropbox/DC/pivotlink demo/css/jquery-ui-1.8.18.custom.css",
+		"/C/Users/Dan/Dropbox/DC/pivotlink demo/js/jquery-ui.js",
+		"/C/Users/Dan/Dropbox/DC/pivotlink demo/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"title",
+			"span",
+			"about",
+			"mockup",
+			"nav",
+			"css/",
+			"css",
+			"less",
+			"bootstrap",
+			"/less",
+			"less",
+			"caption",
+			"<td>",
+			"</td>",
+			":nth-child(4n+4)",
+			":nth-child(4n+3)",
+			":nth-child(4n+2)",
+			":nth-child(4n+1)",
+			"Adding Segment (Custom Segment)",
+			"Add to Compare",
+			"add to compare",
+			"slider",
+			"label"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			".n4",
+			".n3",
+			".n2",
+			".n1",
+			"Added Segment (Custom Segment)",
+			"row-label"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "pattern-db.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Dan\\Google Drive\\websites\\dangovea.com\\dangovea.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
