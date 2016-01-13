@@ -40,15 +40,12 @@ module.exports = function(grunt) {
       html: {
         files: ['html/*.jade'],
         tasks: ['jade'],
-
+        options: {livereload:true},
       },
       styles: {
         files: ['html/css/*.less'],
         tasks: ['less'],
-      },
-      livereload: {
         options: {livereload:true},
-        files: ["html/*.html", "html/css/*.css"]
       }
     }
   });
@@ -62,5 +59,5 @@ module.exports = function(grunt) {
   //grunt.loadNpmTasks('grunt-contrib-lesselements');
   //grunt.loadNpmTasks('grunt-newer');
 
-  grunt.registerTask('default', 'watch');
+  grunt.registerTask('default', ['connect','watch']);
 };
