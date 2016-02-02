@@ -19,9 +19,6 @@
   </head>
   <body ng-controller="patternBody">
     <div class="container">
-      <div></div>
-      <input type="text" ng-model="data.text">
-      <h1>You said: {{data.text}} </h1>
       <div class="row">
         <div class="col-sm-4">
           <div class="front"><img src="img/cover.jpg"></div>
@@ -31,43 +28,43 @@
             <div class="col-sm-6">
               <div class="form-group">
                 <label>Brand</label>
-                <input type="text" ng-model="data.brand" class="form-control">
+                <input type="text" ng-model="data.brand" class="form-control"><a data-ng-click="data.brand=null" class="icon icon-remove"></a>
               </div>
             </div>
             <div class="col-sm-6">
               <div class="form-group">
                 <label>Number / ID</label>
-                <input type="text" ng-model="data.id" class="form-control">
+                <input type="text" ng-model="data.id" class="form-control"><a data-ng-click="data.id=null" class="icon icon-remove"></a>
               </div>
             </div>
             <div class="col-sm-6">
               <div class="form-group">
                 <label>Year</label>
-                <input type="text" ng-model="data.year" class="form-control">
+                <input type="text" ng-model="data.year" class="form-control"><a data-ng-click="data.year=null" class="icon icon-remove"></a>
               </div>
             </div>
             <div class="col-sm-6">
               <div class="form-group">
                 <label>Size</label>
-                <input type="text" ng-model="data.size" class="form-control">
+                <input type="text" ng-model="data.size" class="form-control"><a data-ng-click="data.size=null" class="icon icon-remove"></a>
               </div>
             </div>
             <div class="col-sm-6">
               <div class="form-group">
                 <label>Category</label>
-                <input type="text" ng-model="data.category" class="form-control">
+                <input type="text" ng-model="data.category" class="form-control"><a data-ng-click="data.category=null" class="icon icon-remove"></a>
               </div>
             </div>
             <div class="col-sm-6">
               <div class="form-group">
                 <label>Storage Location</label>
-                <input type="text" ng-model="data.location" class="form-control">
+                <input type="text" ng-model="data.location" class="form-control"><a data-ng-click="data.location=null" class="icon icon-remove"></a>
               </div>
             </div>
             <div class="col-sm-6">
               <div class="form-group">
                 <label>Comments</label>
-                <input type="text" ng-model="data.comments" class="form-control">
+                <input type="text" ng-model="data.comments" class="form-control"><a data-ng-click="data.comments=null" class="icon icon-remove"></a>
               </div>
             </div>
           </div>

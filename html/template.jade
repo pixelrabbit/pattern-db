@@ -18,11 +18,6 @@ html.no-js(ng-app="sampleApp")
 		script(src="app.js")
 	body(ng-controller="patternBody")
 		.container
-			div
-			//- anything typed in here is magically saved to our Firebase database! -->
-			input(type="text",ng-model="data.text")
-			//- all changes from our Firebase database magically appear here! -->
-			h1 You said: {{data.text}} 
 			.row
 				.col-sm-4
 					div.front
@@ -34,4 +29,5 @@ html.no-js(ng-app="sampleApp")
 							.col-sm-6
 								.form-group
 									label #{item}
-									input.form-control(type="text",ng-model="data.#{model[i]}") 
+									input.form-control(type="text",ng-model="data.#{model[i]}")
+									a.icon.icon-remove(data-ng-click="data.#{model[i]}=null") remove
