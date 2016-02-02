@@ -21,6 +21,9 @@ module.exports = function(grunt) {
         ext: '.html'
       }
       ],
+      options: {
+        pretty: true
+      }
     },
     },
     less: {
@@ -37,7 +40,7 @@ module.exports = function(grunt) {
     },
     },
     watch: {
-      html: {
+      preview: {
         files: ['html/*.jade'],
         tasks: ['jade'],
         options: {livereload:true},
@@ -46,6 +49,9 @@ module.exports = function(grunt) {
         files: ['html/css/*.less'],
         tasks: ['less'],
         options: {livereload:true},
+      },
+      assets: {
+        files: ['html/**/*.js']
       }
     }
   });

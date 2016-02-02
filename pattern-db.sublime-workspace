@@ -76,10 +76,27 @@
 	"buffers":
 	[
 		{
+			"file": "html/template.jade",
+			"settings":
+			{
+				"buffer_size": 1365,
+				"line_ending": "Windows",
+				"name": "doctype"
+			}
+		},
+		{
 			"file": "Gruntfile.js",
 			"settings":
 			{
-				"buffer_size": 1346,
+				"buffer_size": 1421,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "html/app.js",
+			"settings":
+			{
+				"buffer_size": 451,
 				"line_ending": "Windows"
 			}
 		}
@@ -91,8 +108,8 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 35.0,
-		"last_filter": "",
+		"height": 81.0,
+		"last_filter": "insta",
 		"selected_items":
 		[
 			[
@@ -160,14 +177,13 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 416.0
+		"width": 400.0
 	},
 	"console":
 	{
 		"height": 119.0,
 		"history":
 		[
-			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
 			"ls",
 			"grunt",
 			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
@@ -184,11 +200,15 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Govea/Documents/websites/pattern-db",
-		"/C/Users/Govea/Documents/websites/pattern-db/html"
+		"/D/Documents/web development/pattern-db",
+		"/D/Documents/web development/pattern-db/html"
 	],
 	"file_history":
 	[
+		"/D/Documents/web development/pattern-db/html/template.html",
+		"/C/Users/Dan/AppData/Roaming/Sublime Text 3/Local/License.sublime_license",
+		"/D/Documents/web development/pattern-db/Gruntfile.js",
+		"/D/Documents/web development/pattern-db/package.json",
 		"/C/Users/Dan/Desktop/sewing patterns - test.csv",
 		"/C/Users/Dan/Google Drive/stepsdemo.txt",
 		"/C/Users/Dan/Google Drive/websites/dangovea.com/html/js/pixelrabbit.js",
@@ -276,7 +296,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -339,31 +359,98 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Gruntfile.js",
-					"semi_transient": true,
+					"file": "html/template.jade",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1346,
+						"buffer_size": 1365,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								366,
-								366
+								1351,
+								1351
 							]
 						],
 						"settings":
 						{
+							"auto_name": "doctype",
+							"incomplete_sync": null,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								967,
+								967
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "html/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -377,7 +464,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 0.0
 	},
 	"input":
 	{
@@ -418,7 +505,7 @@
 	"project": "pattern-db.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -460,7 +547,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 235.0,
+	"side_bar_width": 180.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
