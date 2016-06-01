@@ -7,6 +7,7 @@
     "grunt-contrib-jade": "^0.14.1",
     "grunt-contrib-less": "^1.0.0",
     "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "^1.0.1",
     "grunt-contrib-watch": "^0.6.1",
     "less": "^2.4.0"
   }

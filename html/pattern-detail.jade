@@ -1,0 +1,19 @@
+doctype
+html.no-js(ng-app="sampleApp")
+	head
+		include head.jade
+	body(ng-controller="patternBody")
+		.container
+			.row
+				.col-sm-4
+					div.front
+						img(src="img/cover.jpg")
+				.col-sm-8 
+					.row
+						-var model = ["brand","id","year","size","category","location","comments"]
+						each item,i in ["Brand","Number / ID","Year","Size","Category","Storage Location","Comments"]
+							.col-sm-6
+								.form-group
+									label #{item}
+									input.form-control(type="text",ng-model="data.#{model[i]}")
+									a.icon.icon-remove(data-ng-click="data.#{model[i]}=null") remove
